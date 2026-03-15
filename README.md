@@ -21,3 +21,9 @@ Speaking of useful resources, it could be anything:
      - [Contact List Web App and API](https://thinking-tester-contact-list.herokuapp.com/)
      - [RealWorld Apps](https://github.com/realworld-apps/realworld)
      - [WebDriverUniversity.com](https://webdriveruniversity.com/)
+3. .Net Ecosystem
+   * Interesting Libraries
+     - [Spectre.Console](https://spectreconsole.net/) - build beautiful console applications
+4. Others:
+   * Interesting Tools
+     - [Accessibility Insights](https://accessibilityinsights.io/) - solve accessibility issues before they reach your customers.
